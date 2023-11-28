@@ -21,7 +21,7 @@
             string letters = "Today is Tuesday";
 
             string removedVowelsString = Vowels.RemoveAllTheVowels(letters);
-            Vowels.
+           
             Console.WriteLine(removedVowelsString);
 
         }
